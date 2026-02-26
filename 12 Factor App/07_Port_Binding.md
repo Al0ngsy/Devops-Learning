@@ -1,4 +1,4 @@
-## 7. Port Binding
+ # 7. Port Binding
 
 The app should be **self-contained** and should not rely on any external web server to run.
 

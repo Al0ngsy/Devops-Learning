@@ -1,4 +1,4 @@
-## 1. Codebase
+ # 1. Codebase
 
 Use **Git** to track your codebase, and have a **single codebase per app/service**.
 
@@ -23,3 +23,8 @@ git push -u origin master
 ```
 
 Or using Git GUI tools like GitHub Desktop, GitKraken, SourceTree or Git Graph Extension on VS Code can also help to manage the codebase visually.
+
+## Key points
+
+- Keep the codebase small and focused: one codebase per service.
+- Use branching and CI practices to manage changes safely across environments.

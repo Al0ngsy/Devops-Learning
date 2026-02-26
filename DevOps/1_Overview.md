@@ -1,8 +1,6 @@
 # Overview of DevOps
 
-```
 Technology enables innovation, but strong business ideas drive it.
-```
 
 ## What is DevOps?
 
@@ -35,3 +33,9 @@ Technology enables innovation, but strong business ideas drive it.
 Patrick Debois, Andrew Clay Shafer, John Allspaw, Jez Humble, Gene Kim, John Willis, Bridget Kromhout, and Nicole Forsgren.
 
 The DevOps message spread practitioner-to-practitioner as teams realized what was possible and adopted a more efficient way to work.
+
+## Key points
+
+- DevOps is a cultural and technical approach that shortens delivery cycles.
+- Focus on automation, measurement, and sharing to improve outcomes.
+- Start small with pilot teams and iterate based on metrics and feedback.

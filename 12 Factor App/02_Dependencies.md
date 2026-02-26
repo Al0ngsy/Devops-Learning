@@ -1,4 +1,4 @@
-## 2. Dependencies
+ # 2. Dependencies
 
 **Don't rely on implicit existence of system-wide packages.** Declare all dependencies explicitly in a manifest file:
 
@@ -39,3 +39,9 @@ docker build -t my-python-app .
 # Run the Docker container
 docker run -d -p 5000:5000 my-python-app
 ```
+
+## Key points
+
+- Always pin dependency versions to avoid surprises from transitive updates.
+- Use lockfiles where available (`pip-tools`, `package-lock.json`, `Pipfile.lock`).
+- Prefer containerization for environment consistency in CI/CD pipelines.
